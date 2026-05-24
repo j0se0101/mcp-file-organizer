@@ -1,0 +1,132 @@
+
+---
+
+## 📄 .gitignore
+
+```gitignore
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Archivos de configuración personal (contienen rutas reales del usuario)
+claude_desktop_config.json
+mcp-config.local.json
+*.local.json
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editores y entornos de desarrollo
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs y archivos temporales
+logs/
+*.log
+*.tmp
+*.temp
+.cache/
+*.pid
+*.seed
+*.pid.lock
+
+# Archivos de cobertura de pruebas
+coverage/
+.nyc_output/
+*.lcov
+
+# Archivos de compilación
+dist/
+build/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+*.orig
+
+# Archivos de configuración de Python (si usas Python)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# Archivos específicos de Windows
+# Archivos temporales de Windows
+~$*
+*.tmp
+*.~???
+
+# Archivos de papelera de reciclaje
+$RECYCLE.BIN/
+
+# Archivos de índice de búsqueda
+SearchIndexer-*
+
+# Archivos de configuración de escritorio remoto
+*.rdp
+
+# Archivos de registro de Windows
+*.evtx
+*.etl
+
+# Archivos de hibernación/suspensión
+hiberfil.sys
+pagefile.sys
+swapfile.sys
+
+# Archivos de recuperación del sistema
+System Volume Information/
+
+# Archivos específicos de MCP
+mcp-server-*.log
+*.mcp.log
+
+# Archivos de backup de Claude Desktop
+%APPDATA%/Claude/*.backup
+%APPDATA%/Claude/*.old
+
+# Archivos grandes o binarios que no deberían estar en Git
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.iso
+*.dmg
+*.msi
+*.exe
+
+# Nota: Las rutas específicas del usuario como C:\Users\* se ignoran automáticamente
+# Nunca subas rutas personales a GitHub

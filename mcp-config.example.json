@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "file-organizer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\TU_USUARIO\\Descargas",
+        "C:\\Users\\TU_USUARIO\\Documentos",
+        "C:\\Users\\TU_USUARIO\\Imágenes"
+      ]
+    }
+  }
+}
