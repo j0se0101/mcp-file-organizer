@@ -42,13 +42,12 @@ node --version  # Debe mostrar v18.x.x o superior
 npx --version   # Debe mostrar la versión de npx
 
 
-##  Demo 
+## Demo
+
+ <div align="center">
+  <img width="100%" max-width="800px" alt="image" src="https://github.com/user-attachments/assets/1acb9734-91a6-4605-9370-52ab85508ea0" />
+ </div>
 
 
 
-<p align="center">
-  <img src="Imágenes\Captura de pantalla 2026-05-24 163640.png"" alt="Diagrama de flujo del MCP File Organizer" width="600"/>
-</p>
-
-*Figura 1: Flujo de trabajo del organizador de archivos.*
 
