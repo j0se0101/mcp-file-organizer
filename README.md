@@ -40,3 +40,15 @@ Este proyecto soluciona el problema de tener **Descargas, Documentos e Imágenes
 ```bash
 node --version  # Debe mostrar v18.x.x o superior
 npx --version   # Debe mostrar la versión de npx
+
+
+##  Demo 
+
+
+
+<p align="center">
+  <img src="Imágenes\Captura de pantalla 2026-05-24 163640.png"" alt="Diagrama de flujo del MCP File Organizer" width="600"/>
+</p>
+
+*Figura 1: Flujo de trabajo del organizador de archivos.*
+
