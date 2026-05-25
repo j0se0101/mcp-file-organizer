@@ -44,6 +44,30 @@ node --version  # Debe mostrar v18.x.x o superior
 npx --version   # Debe mostrar la versión de npx
 
 ```
+
+### Paso 2: 
+Guía Rápida de Instalación
+
+Sigue estos pasos para tener el proyecto funcionando en tu equipo local.
+Clonar el repositorio
+
+Abre una terminal (PowerShell, CMD o Git Bash) y ejecuta:
+# Clona el repositorio en tu máquina
+```bash
+git clone https://github.com/j0se0101/mcp-file-organizer.git
+
+# Accede al directorio del proyecto
+cd mcp-file-organizer
+
+```
+### Paso 3: 
+# 1. Copia el archivo de ejemplo (no lo edites directamente)
+cp mcp-config.example.json mcp-config.local.json
+
+# 2. Ahora edita `mcp-config.local.json` con tus rutas reales de Windows
+# Reemplaza "TU_USUARIO" con tu nombre de usuario real
+
+
 ## Demo
 ```bash
 MCP conectado en Claude Desktop
