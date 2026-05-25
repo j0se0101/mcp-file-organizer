@@ -7,6 +7,8 @@
 
 > Un servidor MCP que permite a Claude Desktop organizar automáticamente tus archivos locales en Windows (Descargas, Documentos, Imágenes) de forma segura e inteligente.
 
+
+
 ##  Características Principales
 
 -  **Organización Inteligente**: Mueve archivos automáticamente según su tipo (documentos, imágenes, instaladores, comprimidos)
@@ -41,12 +43,38 @@ Este proyecto soluciona el problema de tener **Descargas, Documentos e Imágenes
 node --version  # Debe mostrar v18.x.x o superior
 npx --version   # Debe mostrar la versión de npx
 
+```
+## Demo
+```bash
+MCP conectado en Claude Desktop
+
+```
+<div align="center">
+  <img width="100%" max-width="800px" alt="image" src="https://github.com/user-attachments/assets/65c48469-6b00-4161-b6fc-cbbcef1d0806" />
+    </div>
+    
+```bash
+Prompt sencillo de ejemplo
+```
+<div align="center">
+  <img width="100%" max-width="800px" alt="image" src="https://github.com/user-attachments/assets/cb87955b-4c1f-4a01-ad13-54f2c2abd9ec" />
+   </div>
+
+```bash
+Instrucción para eliminar archivos de la Papelera de Reciclaje
+```
+<div align="center">
+  <img width="100%" max-width="800px" alt="image"  src="https://github.com/user-attachments/assets/34068086-5a05-4afc-b340-f69c4a2c3fad" />
+
+   </div>
+   
+```bash
+Demostración del MCP eliminó los archivos de la Papelera siempre y cuando ya no se ocupen 
+```
 
 
-
-
-
-
-
-
+<div align="center">
+  <img width="100%" max-width="800px" alt="image"  src="https://github.com/user-attachments/assets/b8b9dc47-da93-4bda-b44e-acd97f4e2763" />
+  
+   </div>
 
