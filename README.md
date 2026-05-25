@@ -43,9 +43,4 @@ npx --version   # Debe mostrar la versión de npx
 
 
 
-  <img width="100%" max-width="800px" alt="image" src="https://github.com/user-attachments/assets/1acb9734-91a6-4605-9370-52ab85508ea0" />
- </div>
-
-
-
 
